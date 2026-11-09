@@ -1,0 +1,11 @@
+{
+  "profile_version": 1,
+  "model": "QN65S95CAFXZA",
+  "firmware": "T-PTMCAKUC-0090-2220.4",
+  "os": "Tizen 9.0",
+  "kernel": "Linux 5.4.77 ARMv7",
+  "runtime": "6.0.9",
+  "registry": "/opt/dbspace/.pkgmgr_parser.db",
+  "scope": "Launcher access only, same firmware as QN55S95CAFXZA. SDB reports platform 9.0 and armv7; kernel and runtime are copied from the QN55 profile until doctor confirms them. No cleanup groups selected yet. Quiet Home installation on this model is unverified.",
+  "groups": {}
+}
